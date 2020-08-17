@@ -19,4 +19,4 @@ npm run start
 ```
 3. Desoues de ejecutar el siguiente comando empezar, si todo  lo hizo deberia ver la siguiente pantalla.
 <br>
-<center><img src ="./assets/react-first-view.png"></img></center>
+<center><img src ="Captura1.PNG"></img></center>
