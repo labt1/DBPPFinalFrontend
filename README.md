@@ -5,6 +5,7 @@ Desarrollamos la parte del fronted con React.js una libreria *open source* cread
 
  2. [Fronted-MERN](https://github.com/Davaria/Fronted-MERN)
 
+Despues de compilar y correr la base de datos en el servidor.
 
 ## Instalacion
 
