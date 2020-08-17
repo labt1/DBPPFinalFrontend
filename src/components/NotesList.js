@@ -38,7 +38,7 @@ export default class NotesList extends Component {
                 <div className="card-header d-flex justify-content-between">
                   {note._Titulo}
                   <Link className="btn btn-secondary" to={`/edit/${note._Id}`}>
-                    Edit
+                    Editar
                   </Link>
                 </div>
                 <div className="card-body">
@@ -50,7 +50,7 @@ export default class NotesList extends Component {
                 <div className="card-body">
                   <div className="btn btn-danger"
                   onClick={() => this.onDeleteNote(note._Id)}>
-                    Delete
+                    Eliminar
                   </div>
                 </div>
               </div>

@@ -44,7 +44,7 @@ export default class CreateUser extends Component {
       <div className="row">
         <div className="col-md-4">
           <div className="card card-body">
-            <h3>Create New User</h3>
+            <h3>Crear un nuevo usuario</h3>
             <form onSubmit={this.onSubmit}>
               <div className="form-group">
 
